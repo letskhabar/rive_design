@@ -1,8 +1,8 @@
 name: rive_design
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: Vimal Kumar <kumarvimal558@gmail.com>
+homepage: https://github.com/letskhabar/rive_design
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
